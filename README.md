@@ -3,11 +3,13 @@ I am Mahmoud, An Entry-level Data Analyst with hands-on experience in Excel, SQL
 Focused on cleaning data, analyzing trends, and building dashboards that support data-driven decisions.
 
 My main Tools are :
+
 Excel (Advanced formulas, Pivot Tables, Power Query)
 SQL | Power BI | Python
 Data Cleaning & Visualization.
 
 Currently in Digital Egypt Pioneers Initiative (DEPI).
+
 Built dashboards and reports
 Transformed data using Excel & Power Query
 And Currently Practicing SQL.
