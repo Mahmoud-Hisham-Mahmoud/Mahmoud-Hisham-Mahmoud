@@ -6,9 +6,7 @@ My main Tools are :
 
 Excel (Advanced formulas, Pivot Tables, Power Query),
 
-SQL | Power BI | Python,
-
-Data Cleaning & Visualization.
+SQL | Power BI | Python.
 
 Currently in Digital Egypt Pioneers Initiative (DEPI).
 
