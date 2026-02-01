@@ -13,6 +13,7 @@ Transformed data using Excel & Power Query
 And Currently Practicing SQL.
 
 My main Courses & Certifications:
+
 IBM Data Analyst Professional Certificate (Coursera):
 Data cleaning, EDA, and visualization using Excel, SQL, Python, and Power BI.
 
