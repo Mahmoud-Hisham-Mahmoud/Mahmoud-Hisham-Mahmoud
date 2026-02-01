@@ -4,16 +4,16 @@ Focused on cleaning data, analyzing trends, and building dashboards that support
 
 My main Tools are :
 
-Excel (Advanced formulas, Pivot Tables, Power Query)
+Excel (Advanced formulas, Pivot Tables, Power Query),
 
-SQL | Power BI | Python
+SQL | Power BI | Python,
 
 Data Cleaning & Visualization.
 
 Currently in Digital Egypt Pioneers Initiative (DEPI).
 
-Built dashboards and reports
-Transformed data using Excel & Power Query
+Built dashboards and reports,
+Transformed data using Excel & Power Query,
 And Currently Practicing SQL.
 
 My main Courses & Certifications:
